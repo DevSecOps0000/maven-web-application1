@@ -11,7 +11,7 @@
 
 	<description>Maven Web Project for Java Project</description>
 
-	<properties>
+	<!-- <properties>
 		<jdk.version>17</jdk.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
@@ -19,6 +19,7 @@
 		<sonar.host.url>http://98.92.200.73:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>naveen</sonar.password>
+	-->
 	</properties>
 
 	<dependencies>
