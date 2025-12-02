@@ -90,14 +90,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>maven-release</name>
-	      <url>http://65.0.205.95:8081/repository/maven-releases/</url>
+	      <name>Siemens-release</name>
+	      <url>http://98.80.191.52:8081/repository/Siemens-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>maven-snapshots</name>
-	      <url>http://65.0.205.95:8081/repository/maven-snapshots/</url>
+	      <name>Siemens-snapshot</name>
+	      <url>http://98.80.191.52:8081/repository/Siemens-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
